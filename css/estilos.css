@@ -4,7 +4,7 @@ body {
     background-size: auto 100vh;
     font-family: Arial;
     height: 100vh;
-    border: 1px solid black;
+    border: 1px solid green;
     
   }
   
@@ -19,7 +19,7 @@ body {
   }
   
   .menu {
-    background: rgba(76, 175, 80, 0.3)
+    background: rgba(76, 175, 80, 0.5)
     
   }
   

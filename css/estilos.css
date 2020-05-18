@@ -1,0 +1,38 @@
+body {
+    background: lightblue;
+    background-image: url("https://image.freepik.com/free-vector/gradient-green-blue-abstract-geometric-background_23-2148362562.jpg");
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+    
+  }
+  
+  a {
+    text-decoration: none;
+    color: green;
+  }
+  
+  a:hover {
+    background: yellow;
+    text-decoration: underline;
+  }
+  
+  .menu {
+    background: whitesmoke;
+    
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color:whitesmoke;
+    text-align: center;
+  }
